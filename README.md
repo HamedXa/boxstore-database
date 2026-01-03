@@ -63,7 +63,7 @@ The entity-relationship diagram shows the complete database schema:
 
 ## Files
 
-- `hs_0394114_boxstore_f.sql` - Complete database schema and sample data
+- schema.sql - Complete database schema and sample data
 - `boxstore-erd.png` - Entity-relationship diagram
 
 ## Technologies
